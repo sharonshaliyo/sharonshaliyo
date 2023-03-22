@@ -1,4 +1,6 @@
-<h1> Hello, I'm Sharon! </h1>
+<h1> Hello! I'm Sharon </h1>
+
+[![Linkedin Badge](https://img.shields.io/badge/-sharonshaliyo-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sharonshaliyo/ "Connect on LinkedIn")
 
 <p>
     <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
